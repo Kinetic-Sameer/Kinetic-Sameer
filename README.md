@@ -3,7 +3,7 @@
 **Senior Frontend Engineer (Angular) · Security**
 
 - 6 years building production Angular apps, now working in Angular 22 (signals, zoneless, SSR).
-- MSc in Cyber Security, University of Birmingham. Dissertation: <one line>.
+- MSc in Cyber Security, University of Birmingham. Dissertation: A black-box framework for detecting, attributing, and quantifying web information leakage.
 - I build secure frontends and the pipelines that prove it: threat modelling, CSP, OAuth/OIDC, and SAST/SCA/DAST in CI.
 
 ## Projects
