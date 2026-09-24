@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sameer Sheikh
 
-<!--
-**Kinetic-Sameer/Kinetic-Sameer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Frontend Engineer (Angular) · Security**
 
-Here are some ideas to get you started:
+- 6 years building production Angular apps, now working in Angular 22 (signals, zoneless, SSR).
+- MSc in Cyber Security, University of Birmingham. Dissertation: <one line>.
+- I build secure frontends and the pipelines that prove it: threat modelling, CSP, OAuth/OIDC, and SAST/SCA/DAST in CI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+- [secure-tracker](https://github.com/Kinetic-Sameer/secure-tracker): Angular 22 + NestJS findings tracker with a DevSecOps pipeline (in progress)
+- [js-fundamentals](https://github.com/Kinetic-Sameer/js-fundamentals): JavaScript and TypeScript implementations, with tests
+- [angular-migration-lab](https://github.com/Kinetic-Sameer/angular-migration-lab): upgrading an Angular 18 app to 22, one major version at a time
+- [information-leakage](https://git.cs.bham.ac.uk/projects-2025-26/sxs2529):Attributing Information Leakage in Web Applications with Calibrated Confidence
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/sameer-sheikh-web-dev-security/
